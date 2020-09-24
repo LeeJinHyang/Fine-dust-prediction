@@ -1,54 +1,62 @@
-# LSTM을 이용한 미세먼지 예측
-
-![image-20200924160916586](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924160916586.png)
-
-![image-20200924160942086](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924160942086.png)
+![슬라이드1](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드1.PNG)
 
 
 
-![image-20200924161009259](C:\Users\multicampus\Documents\Algorithm\DAILY\9월\0923\src\PG_기능개발\image-20200924161009259.png)
+![슬라이드2](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드2.PNG)
 
 
 
-![image-20200924161039295](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161039295.png)
-
-![image-20200924161101540](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161101540.png)
 
 
-
-![image-20200924161116633](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161116633.png)
+![슬라이드3](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드3.PNG)
 
 
 
-![image-20200924161132707](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161132707.png)
-
-![image-20200924161149437](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161149437.png)
-
-![image-20200924161204309](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161204309.png)
+![슬라이드4](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드4.PNG)
 
 
 
-![image-20200924161215924](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161215924.png)
+![슬라이드5](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드5.PNG)
 
 
 
-![image-20200924161231206](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161231206.png)
-
-![image-20200924161247115](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161247115.png)
+![슬라이드6](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드6.PNG)
 
 
 
-![image-20200924161302972](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161302972.png)
+![슬라이드7](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드7.PNG)
 
 
 
-![image-20200924161316870](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161316870.png)
+![슬라이드8](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드8.PNG)
 
 
 
-![image-20200924161335221](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161335221.png)
+![슬라이드9](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드9.PNG)
 
 
 
-![image-20200924161349006](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200924161349006.png)
+![슬라이드10](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드10.PNG)
+
+
+
+![슬라이드11](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드11.PNG)
+
+
+
+![슬라이드12](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드12.PNG)
+
+
+
+![슬라이드13](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드13.PNG)
+
+
+
+![슬라이드14](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드14.PNG)
+
+
+
+![슬라이드15](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드15.PNG)
+
+![슬라이드16](C:\Users\multicampus\Dropbox\프로젝트+대외활동\인공지능_심화학습\미세먼지예측_조교님\슬라이드16.PNG)
 
