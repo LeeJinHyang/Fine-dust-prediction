@@ -1,1 +1,1 @@
-![slide1](C:\Users\multicampus\Documents\Fine-dust-prediction\slide1.png)
+![slide1](C:\Users\multicampus\Documents\Fine-dust-prediction\slide1.png?raw = true)
