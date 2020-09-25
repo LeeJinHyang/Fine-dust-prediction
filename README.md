@@ -1,3 +1,5 @@
-![slide1](C:\Users\multicampus\Documents\Fine-dust-prediction\slide1.png?raw = true)
+# Fine dust predict
 
-![image-20200925160344165](C:\Users\multicampus\Documents\Fine-dust-prediction\slide1.PNG)
+미세먼지 예측 프로그램
+
+임의로 17개의 도시를 선택하여 풍향, 풍속 데이터를 바탕으로 미세먼지 예측 수행
